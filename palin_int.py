@@ -11,7 +11,7 @@ class Solution(object):
 
                 if(x==0):
 
-                    return False
+                    return True
                 
                 #Number is now positive. Use modulus to get its digits.
 
